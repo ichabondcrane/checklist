@@ -4,7 +4,7 @@
 
 Imagine a white board, filled with lists of sticky notes, with each note as a task for you and your team. Now imagine that each of those sticky notes has photos, attachments from other data sources like BitBucket or Salesforce, documents, and a place to comment and collaborate with your teammates. Now imagine that you can take that whiteboard anywhere you go on your smartphone, and can access it from any computer through the web. That's Trello!
 
-First things first, let's create a [trello account](https://trello.com/signup?returnUrl=%2Fguide%2Ftrello-101).
+First things first, let's create a [Trello account](https://trello.com/signup?returnUrl=%2Fguide%2Ftrello-101).
 
 ###  Create a Board
 
@@ -17,4 +17,10 @@ Boards are where projects get organized, information is shared, and great work h
   Check out trello's [Inspiration](https://trello.com/templates) page and [Team Playbooks](https://trello.com/teams)  for board workflow ideas and examples.
 
 ### Reference
-1. [Trello Guide](https://trello.com/guide/trello-101 "Trello Homepage")
+1. [Trello 101](https://trello.com/guide/trello-101 "Trello Homepage")
+2. [Create A Board](https://trello.com/guide/create-a-board.html)
+3. [Feature Deep Dive](https://trello.com/guide/feature-deep-dive.html)
+4. [Power-Up Your Productivity](https://trello.com/guide/power-up-productivity.html)
+5. [Expand your use of Trello](https://trello.com/guide/expand-your-use-of-trello.html)
+6. [Collaboration](https://trello.com/guide/collaboration.html)
+7. [Create A Team](https://trello.com/guide/create-a-team.html)
