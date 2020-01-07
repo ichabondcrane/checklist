@@ -14,14 +14,17 @@ Slack helps people work together and collaborate as easily online as they do in 
 This is set up on a free version of Slack. You can use the free version of Slack for as long as you'd like, but there are a [few usage limits](https://slack.com/intl/en-ph/help/articles/115002422943-Message-file-and-app-limits-on-the-free-version-of-Slack) to consider:
 
 * Message visibility
-... Only the most recent 10,000 messages can be viewed and searched.
+
+  Only the most recent 10,000 messages can be viewed and searched.
 
 * File storage
-... Add up to 5GB of files to your workspace.
+
+  Add up to 5GB of files to your workspace.
 
 * Apps
-.. Install up to 10 third-party or custom apps.
+
+  Install up to 10 third-party or custom apps.
 
 ### Reference
-[1. Slack 101](https://slack.com/intl/en-ph/resources/slack-101?geocode=en-ph "Slack 101")
-[2. Getting Started on Free Plan](https://slack.com/intl/en-ph/help/articles/115002422943-Message-file-and-app-limits-on-the-free-version-of-Slack)
+1. [Slack 101](https://slack.com/intl/en-ph/resources/slack-101?geocode=en-ph "Slack 101")
+2. [Getting Started on Free Plan](https://slack.com/intl/en-ph/help/articles/115002422943-Message-file-and-app-limits-on-the-free-version-of-Slack)
