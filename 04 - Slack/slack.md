@@ -9,7 +9,7 @@ Slack helps people work together and collaborate as easily online as they do in 
 
 5. You can start to add teammates into this project. ![Slack Project Name](https://raw.github.com/elizabethlumban/checklist/master/04%20-%20Slack/teammates.png?raw=true "Teammates")
 
-6. You'll all set.![Slack Workspace](https://raw.github.com/elizabethlumban/checklist/master/04%20-%20Slack/allset.png?raw=true "All Set")
+6. You're all set.![Slack Workspace](https://raw.github.com/elizabethlumban/checklist/master/04%20-%20Slack/allset.png?raw=true "All Set")
 
 
 ### Reference
