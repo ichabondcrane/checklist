@@ -6,6 +6,13 @@ Imagine a white board, filled with lists of sticky notes, with each note as a ta
 
 First things first, let's create a [trello account](https://trello.com/signup?returnUrl=%2Fguide%2Ftrello-101).
 
+###  Create a Board
+
+Boards are where projects get organized, information is shared, and great work happens. They give everyone a shared perspective on the work getting done and what still needs to get done. Boards are made up of lists and cards. Lists often represent a workflow or process. Cards, which often represent tasks, move across these lists to completion.
+
+1. From the team’s Boards tab, click “Create new board” or click the plus button (+) in the Trello header directly to the left of your name, and select “Create Board.”
+
+2. Name the board for whatever you are working on.
 
 ### Reference
 [1. Trello Guide](https://trello.com/guide/trello-101 "Trello Homepage")
