@@ -16,7 +16,12 @@ Boards are where projects get organized, information is shared, and great work h
 
   Check out trello's [Inspiration](https://trello.com/templates) page and [Team Playbooks](https://trello.com/teams)  for board workflow ideas and examples.
   
-  
+### Adding list to a board
+
+A list is a collection of vertically-arranged cards. They may represent a collection of ideas, things to remember, or different stages of a workflow.
+
+1. Add a list to a board by clicking the "Add a list..." button next to the rightmost list on the board. You can also add a list by double-clicking any open space on the board. ![Slack](https://raw.github.com/elizabethlumban/checklist/master/02%20-%20Trello/addlist.png?raw=true "Add List")
+
 
 ### Reference
 1. [Trello 101](https://trello.com/guide/trello-101 "Trello Homepage")
