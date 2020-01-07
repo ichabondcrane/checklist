@@ -14,7 +14,7 @@ Boards are where projects get organized, information is shared, and great work h
 
 2. Name the board for whatever you are working on.
 
-  TrelloTips: Check out our [Inspiration](https://trello.com/templates) page and [Team Playbooks](https://trello.com/teams)  for board workflow ideas and examples.
+  Check out trello's [Inspiration](https://trello.com/templates) page and [Team Playbooks](https://trello.com/teams)  for board workflow ideas and examples.
 
 ### Reference
 [1. Trello Guide](https://trello.com/guide/trello-101 "Trello Homepage")
